@@ -2,7 +2,8 @@ var btns = [
   {
     alt: "Google Play",
     src: "./assets/google-play-badge.png",
-    href: "https://play.google.com/store/apps/details?id=com.calci"
+    href:
+      "https://play.google.com/store/apps/details?id=com.deadcoder0904.calci"
   }
 ];
 
